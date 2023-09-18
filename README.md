@@ -1,4 +1,4 @@
-# InternPe Tasks
+# InternPe Internship
 <p>These are two tasks out of some tasks that I did in my Java programming internship with InternPe.</p>
 
 ### Guess the Number game (NumberGuessingGame.java)
